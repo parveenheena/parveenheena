@@ -10,6 +10,7 @@
 
 - 📫 How to reach me **parveenheena196@gmail.com**
 - 📑 Check my portfolio : **https://parveenheena.github.io/**
+- Connect with me on LinkedlIn : **https://www.linkedin.com/in/heena-parveen-78a798255/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
