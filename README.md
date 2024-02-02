@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenheena&label=Profile%20views&color=0e75b6&style=flat" alt="parveenheena" /> </p>
 
-- 💬 Ask me about **HTML , CSS , JS , MONGO , SQL , React**
+- 💬 Ask me about **HTML , CSS , JS , MONGO , SQL , React, Mongoose , Typescript , Node.js, Express**
 
 - 📫 How to reach me **parveenheena196@gmail.com**
 - 📑 Check my portfolio : **https://parveenheena.github.io/**
