@@ -1,7 +1,7 @@
 
 <img  src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yslfkt5o7rnnn1rxxaptzhz3y58v76z82h9s4j3k&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="350px"/>
 <h1 align="center">Hi 👋, I'm Heena Parveen</h1>
-<h3 align="center">A passionate Full-Stack Web Developer developer from India. I specialize in building cutting-edge web technologies and products. </h3>
+<h3 align="center">A passionate Full-Stack Web Developer developer from India. <br/>I specialize in building cutting-edge web technologies and products. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenheena&label=Profile%20views&color=0e75b6&style=flat" alt="parveenheena" /> </p>
