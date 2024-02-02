@@ -8,6 +8,7 @@
 - 💬 Ask me about **HTML , CSS , JS , MONGO , SQL , React**
 
 - 📫 How to reach me **parveenheena196@gmail.com**
+- 📑 Check my portfolio : https://parveenheena.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
