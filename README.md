@@ -1,5 +1,5 @@
 
-<img  src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47yslfkt5o7rnnn1rxxaptzhz3y58v76z82h9s4j3k&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100%" height="350px"/>
+<img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnozOXFoY2R3dWhiaWF2a3kxZXFwZ2F1MHM4YnZmb3VxZHg0Nm02NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kyp0k7WuLz79is0azg/giphy.gif" width="100%" height="250px"/>
 <h1 align="center">Hi 👋, I'm Heena Parveen</h1>
 <h3 align="center">A passionate Full-Stack Web Developer developer from India. <br/>I specialize in building cutting-edge web technologies and products. </h3>
 
