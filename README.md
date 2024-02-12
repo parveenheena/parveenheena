@@ -23,10 +23,10 @@
 <div>
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parveenheena&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parveenheena&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parveenheena&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parveenheena&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parveenheena&theme=github_dark&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parveenheena&theme=dracula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parveenheena&theme=dracula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parveenheena&theme=dracula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parveenheena&theme=dracula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parveenheena&theme=dracula&utcOffset=8">
 </p>
 </div>
