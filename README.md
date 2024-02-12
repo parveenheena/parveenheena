@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Heena Parveen</h1>
-<h3 align="center">A passionate Full-Stack Web Developer developer from India. <br/>I specialize in building cutting-edge web technologies and products. </h3>
+<h3 align="center">A passionate Full-Stack Web Developer from India. <br/>I specialize in building cutting-edge web technologies and products. </h3>
 
 
 <p align="left"> <img width="150px" height="30px" src="https://komarev.com/ghpvc/?username=parveenheena&label=Profile%20views&color=10073b&style=plastic" alt="parveenheena" /> </p>
