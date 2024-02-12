@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full-Stack Web Developer from India. <br/>I specialize in building cutting-edge web technologies and products. </h3>
 
 
-<p align="left"> <img width="150px" height="30px" src="https://komarev.com/ghpvc/?username=parveenheena&label=Profile%20views&color=10073b&style=plastic" alt="parveenheena" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=parveenheena&label=Profile%20views&color=10073b&style=plastic" alt="parveenheena" /> </p>
 
 - 💬 Ask me about **HTML , CSS , JS , MONGO , SQL , React, Mongoose , Typescript , Node.js, Express**
 - 📫 How to reach me **parveenheena196@gmail.com**
