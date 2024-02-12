@@ -24,7 +24,7 @@
 <h3 align="center">GitHub Stats</h3>
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parveenheena&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="parveenheena" />
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parveenheena&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="parveenheena" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=parveenheena&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="parveenheena" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parveenheena&theme=dark" alt="parveenheena" />
 </p>
 </div>
