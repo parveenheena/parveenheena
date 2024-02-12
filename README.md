@@ -18,21 +18,25 @@
 </p>
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,java,bootstrap,nodejs,expressjs,mongodb,mysql,github,git,netlify,vercel,mongoose&theme=dark)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,vite,java,materialui,bootstrap,nodejs,expressjs,mongodb,mysql,github,postman,redux&theme=dark&perline=8" />
+  </a>
+</p>
   
 # 📊 GitHub Stats:
 
 <p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parveenheena&theme=onedark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parveenheena&theme=dracula">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parveenheena&theme=dracula">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parveenheena&theme=dracula">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parveenheena&theme=dracula&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parveenheena&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parveenheena&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=parveenheena&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=parveenheena&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=parveenheena&theme=dark&utcOffset=8">
 </p>
 </div>
 
 ### ✍️ Random Dev Quote
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ### 🔝 Top Contributed Repo
